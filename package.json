@@ -1,0 +1,22 @@
+{
+  "name": "testhillel",
+  "version": "1.0.0",
+  "description": "testHillel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-be-love/testHillel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-be-love/testHillel/issues"
+  },
+  "homepage": "https://github.com/alex-be-love/testHillel#readme",
+  "dependencies": {
+    "node": "^12.4.0"
+  }
+}
